@@ -33,12 +33,7 @@ links = soup.findAll('a') #making a list with all Links on manga.
 print links
 
 for link in links:
-	print link
 	urlChapters.append(target_url+link['href']) #href - relates the links (look at page source)
-
-
-
-
-
+	
 	
 
