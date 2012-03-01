@@ -1,0 +1,250 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Air Gear 339 - Read Air Gear 339 Manga Scans P
+age 1. Free and No Registration required for Air Gear 339" />
+<meta name="keywords" content="air gear 339,air gear chapter 339,air gear,air ge
+ar manga,air gear 339 page 1" />
+<title>Air Gear 339 - Read Air Gear 339 Online - Page 1</title>
+<!--[if lte IE 7]&gt;
+        &lt;link rel="stylesheet" type="text/css" href="/styles/ie.css"&gt;
+&lt;![endif]-->
+<link rel="shortcut icon" href="http://s2.mangareader.net/favicon.ico" />
+<link href="http://s1.mangareader.net/sup/styles/1347525063_69c20684bd37792f075e
+3d87c7c533ad.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+(function() {
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async =
+true;
+s.src = 'http://s1.mangareader.net/sup/js/1347525063_6d1385e1ff1e467db0565911d92
+93003.js';
+var x = document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(s, x);
+})();
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-27286164-2']);
+_gaq.push(['_setSampleRate', '80']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async
+ = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
+ + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
+, s);
+})();
+</script>
+<script type="text/javascript">
+    document['mangaid'] = 137;
+    document['chapterno'] = 339;
+    document['nl'] = '/air-gear/339/2';
+    document['pl'] = '/air-gear/338/17';
+    document['pu'] = 'http://i25.mangareader.net/air-gear/339/air-gear-2876349.j
+pg';
+
+function omvKeyPressed(e) {
+    var keyCode = 0;
+    if (navigator.appName == "Microsoft Internet Explorer") {
+        if (!e) {
+            var e = window.event;
+        }
+        if (e.keyCode) {
+            keyCode = e.keyCode;
+            if ((keyCode == 37) || (keyCode == 39)) {
+                window.event.keyCode = 0;
+            }
+        } else {
+            keyCode = e.which;
+        }
+    } else {
+        if (e.which) {
+            keyCode = e.which;
+        } else {
+            keyCode = e.keyCode;
+        }
+    }
+    switch (keyCode) {                case 37:
+            window.location = "/air-gear/338/17";
+            return false;
+                        case 39:
+            window.location = "/air-gear/339/2";
+            return false;
+
+        default:
+            return true;
+    }
+}
+document.onkeydown = omvKeyPressed;</script>
+</head>
+<body>
+<div id="container">
+<div id="wrapper_header">
+<div class="top">
+<div class="logo"><a href="/"></a>
+<div id="logoimg"></div>
+</div>
+<div id="top_navigation">
+<ul>
+<li class="topnav-first topnav-current"><a href="/"><span>Home</span></a></li>
+<li><a href="/search"><span>Advanced Search</span></a></li>
+<li><a href="/popular"><span>Popular Manga</span></a></li>
+<li><a href="/alphabetical"><span>Manga List</span></a></li>
+<li class="topnav-last"><a href="/latest"><span>Latest Releases</span></a></li>
+</ul>
+</div>
+<div id="sec_navigation">
+<ul>
+<li class="secnav-first" id="gbutton"></li>
+<li class="aftersearch"><input type="text" id="searchbox" /></li>
+<li class="secnav"><a rel="nofollow" href="/random">Surprise Me!</a></li>
+<li class="secnav"><a href="http://www.animefreak.tv" target="_blank" title="Ani
+me">Anime</a></li>
+<li class="secnav-last"><a href="mailto:info@mangareader.net" title="Contact">Co
+ntact Us</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="adtop"><iframe width="728" height="90" scrolling="no" frameborder="0" i
+d="adframetop" src="/ad/top1" name="adframetop"></iframe></div>
+<div id="topchapter">
+<div id="mangainfo">
+<div>
+<h1>Air Gear 339</h1>
+<span class="c1">Page 1&nbsp;-&nbsp;</span></div>
+<div>
+<h2 class="c2"><a href="/137/air-gear.html" title="Air Gear Manga">Air Gear Mang
+a</a></h2>
+</div>
+<div class="clear"></div>
+</div>
+<div id="selectmanga"><select id="chapterMenu" name="chapterMenu"></select></div>
+<div id="navi">
+<div class="prevnext"><span class="prev"><a href="/air-gear/338/17">Previous</a>
+</span> <span class="next"><a href="/air-gear/339/2">Next</a></span></div>
+<div id="selectpage"><select id="pageMenu" name="pageMenu"><option value="/air-g
+ear/339" selected="selected">1</option>
+<option value="/air-gear/339/2">2</option>
+<option value="/air-gear/339/3">3</option>
+<option value="/air-gear/339/4">4</option>
+<option value="/air-gear/339/5">5</option>
+<option value="/air-gear/339/6">6</option>
+<option value="/air-gear/339/7">7</option>
+<option value="/air-gear/339/8">8</option>
+<option value="/air-gear/339/9">9</option>
+<option value="/air-gear/339/10">10</option>
+<option value="/air-gear/339/11">11</option>
+<option value="/air-gear/339/12">12</option>
+<option value="/air-gear/339/13">13</option>
+<option value="/air-gear/339/14">14</option>
+<option value="/air-gear/339/15">15</option>
+<option value="/air-gear/339/16">16</option>
+<option value="/air-gear/339/17">17</option>
+<option value="/air-gear/339/18">18</option>
+</select> of 18</div>
+</div>
+<div class="c3"></div>
+</div>
+<div id="imgholder"><a href="/air-gear/339/2"><img id="img" width="800" height="
+1091" src="http://i4.mangareader.net/air-gear/339/air-gear-2876347.jpg" alt="Air
+ Gear 339 - Page 1" name="img" /></a> </div>
+<div id="bottomchapter">
+<div class="note">
+<p><b>Tip</b>: Click on the Air Gear 339 manga image to go to the next page. You
+ can use left and right keyboard keys to browse between pages.</p>
+<div class="shortcutkeys"></div>
+<div class="clear"></div>
+</div>
+<div id="mangainfofooter">
+<div class="prevnext"><span class="prev"><a href="/air-gear/338/17">Previous</a>
+</span> <span class="next"><a href="/air-gear/339/2">Next</a></span></div>
+<div id="mangainfo_bas"><span class="chapternav">Air Gear 339 Chapter Navigation
+:</span><br />
+<table class="c5"><tr>
+<td class="c4"><span class="chapternav_next">Next Chapter:</span></td>
+<td><a href="/air-gear/340">Air Gear 340</a>: </td>
+</tr>
+<tr>
+<td><span class="chapternav_next">Previous Chapter:</span></td>
+<td><a href="/air-gear/338">Air Gear 338</a>: </td>
+</tr>
+</table>
+</div>
+<h2>Air Gear 339 - Read Air Gear Chapter 339</h2>
+<div id="mangainfo_son"><strong>Air Gear 339</strong> <b>released!</b> You are n
+ow reading <a href="/air-gear/339"><strong>Air Gear 339</strong></a> online. If
+you are bored from <strong>Air Gear</strong> manga, you can try surprise me link
+ at top of page or select another manga like Air Gear 339 from our huge <a href=
+"/alphabetical">manga list</a>.<br />
+Best regards; <a href="/">mangareader</a>: #1 resource for <a href="/137/air-gea
+r.html"><strong>Air Gear</strong></a> Scans Online.</div>
+</div>
+<div id="related">
+<h3>Air Gear 339 Manga Relations</h3>
+<div id="related_inner"><span style="font-size:116%"><a href="http://www.mangare
+ader.net/akagami-no-shirayukihime/24">Akagami no Shirayukihime 24</a></span> <sp
+an style="font-size:108%"><a href="http://www.mangareader.net/374/hadashi-de-bar
+a-wo-fume.html">Hadashi De Bara Wo Fume Manga</a></span> <span style="font-size:
+93%"><a href="http://www.mangareader.net/detective-conan/809">Detective Conan 80
+9</a></span> <span style="font-size:100%"><a href="http://www.mangareader.net/13
+9/detective-conan.html">Detective Conan</a></span> <span style="font-size:131%">
+<a href="http://www.mangareader.net/120/the-world-god-only-knows.html">The World
+ God Only Knows</a></span> <span style="font-size:93%"><a href="http://www.manga
+reader.net/225/kimi-no-iru-machi.html">Kimi No Iru Machi Manga</a></span> <span
+style="font-size:100%"><a href="http://www.mangareader.net/1055/bokura-ga-ita.ht
+ml">Bokura ga Ita</a></span> <span style="font-size:116%"><a href="http://www.ma
+ngareader.net/mahou-sensei-negima/353">Mahou Sensei Negima 353</a></span> <span
+style="font-size:108%"><a href="http://www.mangareader.net/crash/16">Crash 16</a
+></span> <span style="font-size:123.1%"><a href="http://www.mangareader.net/ojou
+sama-wa-oyomesama/21">Ojousama wa Oyomesama 21</a></span> <span style="font-size
+:93%"><a href="http://www.mangareader.net/pandora-hearts/70">Pandora Hearts 70</
+a></span> <span style="font-size:131%"><a href="http://www.mangareader.net/faste
+r-than-a-kiss/53">Faster than a Kiss 53</a></span> <div class="clear"></div>
+</div>
+</div>
+</div>
+<div id="prefetchimg"></div>
+<div class="clear"></div>
+<div id="adfooter"><iframe width="300" height="250" scrolling="no" frameborder="
+0" id="adbottomleft" src="/ad/left1" name="adbottomleft"></iframe> <iframe width
+="300" height="250" scrolling="no" frameborder="0" id="adbottomright" src="/ad/r
+ight1" name="adbottomright"></iframe></div>
+<div id="wrapper_footer">
+<table cellspacing="0">
+<tbody>
+<tr>
+<td class="footer-column bold c6" align="left" valign="top">2011 AFTV Network</t
+d>
+<td class="footer-column" valign="top" width="20%">
+<ul>
+<li><b>Network</b></li>
+<li><a href="http://www.animefreak.tv" target="_blank">Anime</a></li>
+<li><a href="http://www.animepremium.net" target="_blank">Anime Downloads</a></l
+i>
+<li><a href="/">Manga</a></li>
+<li><a href="/privacy">Privacy Statements</a></li>
+</ul>
+</td>
+<td class="footer-column" align="left" valign="top" width="20%">
+<ul>
+<li><b>Partners</b></li>
+<li><a href="http://www.upload2.com" target="_blank">Free File Hosting</a></li>
+<li><a href="http://www.watchop.com" target="_blank">Watch One Piece</a></li>
+<li><a href="http://www.gogoanime.com" target="_blank">Anime Online</a></li>
+<li><a href="http://www.goodanime.net" target="_blank">Good Anime</a></li>
+</ul>
+</td>
+<td class="footer-column" align="left" valign="top" width="1%"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</body>
+</html>  Document of the chapter.
